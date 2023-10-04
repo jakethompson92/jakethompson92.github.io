@@ -19,5 +19,5 @@ Below are the courses I have taught. Click on the course titles to view the resp
 
 ### Baldwin Wallace University
 
-- **ECN 121: Principles of Microeconomics** - Fall/2021 (adjust as necessary)
+- [**ECN 201: Principles of Microeconomics**](https://github.com/jakethompson92/jakethompson92.github.io/blob/master/assets/ECN%20201-S01%20Syllabus%20.doc.pdf)- Fall/2021 (adjust as necessary)
   - Description: An introduction to the fundamental concepts of microeconomics, including demand, supply, and the behavior of individual consumers and firms.
