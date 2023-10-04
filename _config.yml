@@ -22,7 +22,7 @@ author: Jacob Thompson
 navbar-links:
   #About Me: "aboutme"
   Resources:
-    - Courses Taught: "https://github.com/jakethompson92/jakethompson92.github.io/blob/master/courses.md"
+    - Courses Taught: "https://github.com/jakethompson92/jakethompson92.github.io/blob/master/courses"
    # - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://deanattali.com"
 
