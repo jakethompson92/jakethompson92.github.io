@@ -1,16 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a PhD candidate in economics at the University of Oregon. I received dual Bachelors degrees in Economics and Philosophy from Kent State University. I study macroeconomics with a particular emphasis on Bayesian DSGE models. In my job market paper, I explore the importance of agents' first beliefs in a DSGE model with boundedly-rational agents. I document the gains in model likelihood that one can achieve through joint estimation of initial beliefs along with model parameters. 
