@@ -22,7 +22,7 @@ author: Jacob Thompson
 navbar-links:
   #About Me: "aboutme"
   Teaching:
-    - Courses Taught: "https://jakethompson92.github.io/courses/"
+    - Courses Taught: "/courses/"
   Research:
     - Job Market Paper: "assets/Job_Market_Paper.pdf"
   CV: 
