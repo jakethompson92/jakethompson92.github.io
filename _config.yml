@@ -25,6 +25,8 @@ navbar-links:
     - Courses Taught: "https://jakethompson92.github.io/courses/"
   Research:
     - Job Market Paper: "https://jakethompson92.github.io/job-market-paper/"
+  CV: 
+    - CV: "assets/CV.pdf"
  # Author's home: "https://deanattali.com"
 
 ################
