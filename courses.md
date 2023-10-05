@@ -8,7 +8,7 @@ Below are the courses I have taught. Click on the course titles to view the resp
 
 ### University of Oregon
 
-- [**EC 313: Intermediate Macroeconomics**](assets/EC_313_syllabus (1).pdf){:target="_blank"} - Spring/2022 
+- [**EC 313: Intermediate Macroeconomics**](assets/EC_313_syllabus.pdf){:target="_blank"} - Spring/2022 
   - Description: A deep dive into the principles and applications of macroeconomics, exploring economic growth, inflation, unemployment, and economic policy.
 
 - [**EC 340: Issues in Public Economics**](assets/EC_340_Syllabus.pdf){:target="_blank"} - Winter/2020 
