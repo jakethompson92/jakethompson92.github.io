@@ -4,7 +4,7 @@ title: Courses Taught
 permalink: /courses/
 ---
 
-Below are the courses I have taught. Click on the course titles to view the respective syllabi (where available).
+Below are the courses I have taught as the instructor of record, both at the University of Oregon and at Baldwin Wallace University. Click on the course titles to view the respective syllabi. 
 
 ### University of Oregon
 
