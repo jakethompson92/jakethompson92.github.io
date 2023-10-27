@@ -25,6 +25,7 @@ navbar-links:
     - Courses Taught: "/courses/"
   Research:
     - Job Market Paper: "assets/Job_Market_Paper.pdf"
+    - JMP slides: "assets/presentation.pdf"
   CV: 
     - CV: "assets/CV.pdf"
  # Author's home: "https://deanattali.com"
