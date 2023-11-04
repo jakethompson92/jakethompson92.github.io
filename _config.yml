@@ -23,6 +23,8 @@ navbar-links:
   #About Me: "aboutme"
   Teaching:
     - Courses Taught: "/courses/"
+    - Teaching Evaluations: "assets/teaching_evaluations.pdf"
+    - Statement of Teaching Philosophy: "assets/statement_of_teaching.pdf"
   Research:
     - Job Market Paper: "assets/Job_Market_Paper.pdf"
     - JMP slides: "assets/presentation.pdf"
