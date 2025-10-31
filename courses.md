@@ -8,14 +8,14 @@ Below are the courses I have taught at the college level as the instructor of re
 
 ### Northeastern University
 
-- [**ECON 1115: Principles of Macroeconomics**]([Principles-Macro-Syllabus.pdf]{:target="_blank"} - Fall/2025, Spring 2026 
+- [**ECON 1115: Principles of Macroeconomics**](assets/Principles-Macro-Syllabus.pdf){:target="_blank"} - Fall/2025, Spring 2026 
   - Description: An introductory course to macroeconomic analysis, covering the fundamentals of national income, inflation, and unemployment.
  
-- [**ECON 2315: Macroeconomic Theory**]([Intermediate%20Macroeconomics%20Syllabus.pdf]){:target="_blank"} - Fall/2025, Spring 2026 
+- [**ECON 2315: Macroeconomic Theory**](assets/Intermediate%20Macroeconomics%20Syllabus.pdf){:target="_blank"} - Fall/2025, Spring 2026 
   - Description: Presents several theoretical approaches to the study of macroeconomic dynamics in both the short and long run. Emphasizes the use of rigorous mathematical
 tools, such as calculus, to examine the major determinants of fluctuations in employment and price level, as well as the rate of economic growth.
 
-- [**ECON 5120: Macroeconomic Theory (Master's Level)**]([ECON-5120-syllabus.pdf]){:target="_blank"} - Fall/2025
+- [**ECON 5120: Macroeconomic Theory (Master's Level)**](assets/ECON-5120-syllabus.pdf){:target="_blank"} - Fall/2025
   - Description: Graduate level course surveying cutting-edge macroeconomic models and techniques. Includes discussion on Dynamic Optimization, Economic Growth, Real Business Cycle Theory and New Keynesian Macroeconometric models. 
 
 ### Illinois State University
